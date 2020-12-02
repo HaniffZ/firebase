@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1031254590484",
+    "firebase_url": "https://haniff197591.firebaseio.com",
+    "project_id": "haniff197591",
+    "storage_bucket": "haniff197591.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1031254590484:android:31b15703c740648cf39301",
+        "android_client_info": {
+          "package_name": "com.example.firebase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1031254590484-c130di6n8hth9flv8i5umu2cb5sggish.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDqaTCrOrxMl9V0IMB94kW5fTJ9KlCGlO4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1031254590484-c130di6n8hth9flv8i5umu2cb5sggish.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
